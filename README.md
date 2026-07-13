@@ -20,6 +20,16 @@ Não precisa instalar nada antes — na primeira execução, um assistente de co
 - Interface em 6 idiomas: Português, English, Español, Français, Deutsch, Italiano
 - Tema claro/escuro
 
+## Screenshots
+
+| Busca (YouTube) | Busca (TikTok) |
+|---|---|
+| ![Busca YouTube](screenshot-youtube.png) | ![Busca TikTok](screenshot-tiktok-webapp.png) |
+
+| Busca (TikTok) | Configurações de idioma |
+|---|---|
+| ![Busca TikTok](screenshot-tiktok-busca.png) | ![Configurações](screenshot-config-idioma.png) |
+
 ## Como usar
 
 1. Cole o link do vídeo e clique em **Buscar**.
