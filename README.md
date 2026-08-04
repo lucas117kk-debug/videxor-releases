@@ -4,6 +4,12 @@ Downloader de vídeos com interface gráfica, feito com [yt-dlp](https://github.
 
 Baixe vídeos, áudio, miniaturas e legendas do YouTube, TikTok e outras plataformas, com fila de downloads e suporte a vários idiomas.
 
+## História
+
+O Videxor foi criado em 2025 por Lumexor e tinha como objetivo maximizar a qualidade, a eficiência e a produtividade na criação de vídeos de IAMV. No entanto, com o fim desse formato de conteúdo, o programa perdeu a sua principal finalidade.
+
+Por esse motivo, Lumexor decidiu lançar o Videxor 2.0, redefinindo o objetivo do projeto: tornar-se o melhor programa gratuito para baixar e converter vídeos.
+
 ## Download
 
 Vá em [**Releases**](../../releases) e baixe a versão mais recente (`Videxor.exe`).
