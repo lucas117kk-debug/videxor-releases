@@ -6,7 +6,7 @@ Baixe vídeos, áudio, miniaturas e legendas do YouTube, TikTok e outras platafo
 
 ## História
 
-O Videxor foi criado em 2025 por Lumexor e tinha como objetivo maximizar a qualidade, a eficiência e a produtividade na criação de vídeos de IAMV. No entanto, com o fim desse formato de conteúdo, o programa perdeu a sua principal finalidade.
+O Videxor foi criado em 2025 por Lumexor e tinha como objetivo maximizar a qualidade, a eficiência e a produtividade na criação de vídeos de IA. No entanto, com o fim desse formato de conteúdo, o programa perdeu a sua principal finalidade.
 
 Por esse motivo, Lumexor decidiu lançar o Videxor 2.0, redefinindo o objetivo do projeto: tornar-se o melhor programa gratuito para baixar e converter vídeos.
 
